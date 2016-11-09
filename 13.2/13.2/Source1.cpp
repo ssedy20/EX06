@@ -8,7 +8,7 @@ int main()
 	ifstream input;
 
 	// opens the text file from previous exercise//
-	input.open("13:1.txt");
+	input.open("Exercise13_1.txt");
 
 	if (input.fail())
 	{
